@@ -1,0 +1,19 @@
+# Environment
+.env
+.env.*
+
+# API keys
+*.key
+secrets/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temp
+tmp/
+.tmp/
